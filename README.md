@@ -8,7 +8,8 @@
 ## Pilot Details
  - I want the website to have a Home page, a page for each category of topics and separate pages for each article. 
  - I dont need the pilot to be fancy. I just want it to have the basic skeleton so I can start writing articles and publish it in this website.
-
+---
 ## Future Ideas
  - Better the look and feel of the website
  - Create a chat bot in the website to interact reply with articles in this website as a knowledge base
+---
